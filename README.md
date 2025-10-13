@@ -41,4 +41,3 @@ Ziel ist es, mithilfe von **Exploratory Data Analysis (EDA)** und **Machine Lear
 
 Erstellt im Rahmen des Studiengangs **Data Science & Künstliche Intelligenz**
 Hochschule: Duale Hochschule Baden-Württemberg (Karlsruhe)
-
