@@ -5,3 +5,4 @@ import matplotlib.pyplot as plt
 df = pd.read_csv('/Users/carlplacek/Desktop/Uni/DataScience&KI/wine+quality/winequality-red.csv', sep=';')
 
 print(df.head(6))
+print(df.describe())
